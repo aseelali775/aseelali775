@@ -12,12 +12,10 @@ I design and develop web applications, business systems, and e-commerce platform
 
 ### Featured Projects
 
-**AQL Crypto** — A cryptocurrency information platform featuring market prices, news, analysis, and indicators.
-
-**Yemen Aqeeq** — An e-commerce platform for Yemeni agate products, including product management and an administration panel.
-
-**Professional Portfolio** — My portfolio website showcasing selected projects and development work.
-
+- **[AQL Crypto](https://aseelali775.github.io/aseel-portfolio/projects/cryptohub.html)** — A cryptocurrency information platform featuring market prices, news, analysis, and indicators.
+- **[Yemen Aqeeq](https://aseelali775.github.io/aseel-portfolio/projects/yemen-aqeeq.html)** — An e-commerce platform for Yemeni agate products, with product management and an administration panel.
+- **[Professional Portfolio](https://aseelali775.github.io/aseel-portfolio/)** — Explore my selected projects and development work.
+- 
 ### Explore My Work
 - 🌐 [Portfolio Website](https://aseelali775.github.io/aseel-portfolio/)
 - 💻 [GitHub Repositories](https://github.com/aseelali775?tab=repositories)
