@@ -1,16 +1,28 @@
-## Hi there 👋
+# Aseel Ali
 
-<!--
-**aseelali775/aseelali775** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full-Stack Developer | Building Practical Digital Solutions
 
-Here are some ideas to get you started:
+I design and develop web applications, business systems, and e-commerce platforms, focusing on practical solutions to real-world needs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I Do
+- Web application development
+- Business and administrative systems
+- E-commerce platforms
+- API integration and database-driven applications
+
+### Featured Projects
+
+**AQL Crypto** — A cryptocurrency information platform featuring market prices, news, analysis, and indicators.
+
+**Yemen Aqeeq** — An e-commerce platform for Yemeni agate products, including product management and an administration panel.
+
+**Professional Portfolio** — My portfolio website showcasing selected projects and development work.
+
+### Explore My Work
+- 🌐 [Portfolio Website](https://aseelali775.github.io/aseel-portfolio/)
+- 💻 [GitHub Repositories](https://github.com/aseelali775?tab=repositories)
+
+### My Approach
+I focus on understanding project requirements, building useful digital solutions, and continuously improving my software development skills.
+
+📫 Contact:aseelalmuathen@gmail.com .
